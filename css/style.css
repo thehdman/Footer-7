@@ -1,0 +1,68 @@
+footer{
+    padding: 20px 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-link-icon :hover{
+    color: #000;
+}
+
+.font-overlock {
+    font-family: 'Overlock SC', cursive;
+}
+
+.footer-heading-title {
+    font-size: 60px;
+}
+
+.footer-link-list{
+    font-size: 29px;
+}
+
+.news-title {
+    font-size: 29px;
+}
+.inp-email {
+    border: 1px solid #fff;
+    width: 75%;
+    height: 60px;
+    padding: 10px;
+    outline: none;
+}
+
+.inp-email::placeholder {
+    color: #fff;
+    font-size: 20px;
+}
+
+.btn {
+    border-style: solid solid solid none;
+    border-radius: 0;
+    width: 25%;
+    font-size: 18px;
+}
+
+input[type=checkbox] {
+    width: 20px;
+    height: 30px;
+}
+
+.checkbox-tagline{
+    font-size: 1.25rem;
+    width: 400px;
+}
+.footer-link-icon{
+    padding-right: 20px;
+}
+.footer-menu-bottom {
+    display: flex;
+    font-size: 21px;
+}
+
+.footer-copyright{
+    font-size: 19px;
+}
