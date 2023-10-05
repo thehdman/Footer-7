@@ -1,5 +1,5 @@
 footer{
-    padding: 20px 50px;
+    padding: 15px 50px;
 }
 
 a {
@@ -55,12 +55,16 @@ input[type=checkbox] {
     font-size: 1.25rem;
     width: 400px;
 }
+.footer-icon-list{
+    margin-bottom: 0;
+}
 .footer-link-icon{
     padding-right: 20px;
 }
 .footer-menu-bottom {
     display: flex;
-    font-size: 21px;
+    font-size: 18px;
+    margin-bottom: 2px;
 }
 
 .footer-copyright{
